@@ -1,0 +1,9 @@
+{
+  "name": "NodeJS-Network-Netsh-Wlan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mehmetsalihyaldiz/NodeJS-Network-Netsh-Wlan.git",
+  "author": "Mehmet Salih YALDIZ <83459326+mehmetsalihyaldiz@users.noreply.github.com>",
+  "license": "MIT",
+  "type": "module"
+}
